@@ -117,7 +117,7 @@ export function NavBar() {
               `}
             >
               {" "}
-              set color to red
+              click to change color
             </span>
           </div>
 
