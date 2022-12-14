@@ -39,7 +39,7 @@ const boxDesc = css`
     font-size: 14px;
     justify-content: center;
 
-    background: black;
+    background: #2841ff;
     border: 0.5px solid grey;
     border-radius: 10px;
     cursor: pointer;
